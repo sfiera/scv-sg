@@ -4181,7 +4181,7 @@
 		)
 		(uuid "ff52f989-ae1c-4aad-920b-4d6231e3dd18")
 	)
-	(label "SG2.D"
+	(label "SG1.D"
 		(at 120.65 111.76 180)
 		(effects
 			(font
@@ -4191,7 +4191,7 @@
 		)
 		(uuid "015dc1c3-1b7f-4f9e-9546-e1e720d2bc8f")
 	)
-	(label "SG1.D"
+	(label "SG2.D"
 		(at 87.63 60.96 180)
 		(effects
 			(font
@@ -4201,7 +4201,7 @@
 		)
 		(uuid "016d49b5-114b-4bd2-b286-6c870657a285")
 	)
-	(label "SCV2{LD UR AB}"
+	(label "SCV1{LD UR AB}"
 		(at 167.64 129.54 0)
 		(effects
 			(font
@@ -4211,7 +4211,7 @@
 		)
 		(uuid "11e566f5-c404-4b99-8632-e1d11a5b413a")
 	)
-	(label "SG2.B"
+	(label "SG1.B"
 		(at 120.65 116.84 180)
 		(effects
 			(font
@@ -4221,7 +4221,7 @@
 		)
 		(uuid "1353e43c-5b0f-482c-a3e1-07ce28095a8a")
 	)
-	(label "SCV1.AB"
+	(label "SCV2.AB"
 		(at 148.59 109.22 0)
 		(effects
 			(font
@@ -4241,7 +4241,7 @@
 		)
 		(uuid "20e26923-2fdf-44af-ae80-e54917d3fa25")
 	)
-	(label "SG1.U"
+	(label "SG2.U"
 		(at 55.88 53.34 0)
 		(effects
 			(font
@@ -4251,7 +4251,7 @@
 		)
 		(uuid "2102a02a-d6aa-48d4-b90c-da23627773d6")
 	)
-	(label "SCV2.AB"
+	(label "SCV1.AB"
 		(at 148.59 66.04 0)
 		(effects
 			(font
@@ -4261,7 +4261,7 @@
 		)
 		(uuid "271861e5-224c-41ee-8c08-0a379b86a15f")
 	)
-	(label "SG1.L"
+	(label "SG2.L"
 		(at 87.63 58.42 180)
 		(effects
 			(font
@@ -4271,7 +4271,7 @@
 		)
 		(uuid "2d291fb8-2257-4eaf-8681-54c753724396")
 	)
-	(label "SG1.L"
+	(label "SG2.L"
 		(at 120.65 53.34 180)
 		(effects
 			(font
@@ -4281,7 +4281,7 @@
 		)
 		(uuid "345121d4-8f72-47a0-8c2d-994c5e70eb8d")
 	)
-	(label "SG1.D"
+	(label "SG2.D"
 		(at 120.65 104.14 180)
 		(effects
 			(font
@@ -4291,7 +4291,7 @@
 		)
 		(uuid "3a447008-e361-4f5e-9ba2-847890c407f2")
 	)
-	(label "SG1.U"
+	(label "SG2.U"
 		(at 87.63 63.5 180)
 		(effects
 			(font
@@ -4301,7 +4301,7 @@
 		)
 		(uuid "3b0e4109-27bc-47d4-b79c-63f51d258ee7")
 	)
-	(label "SG1.B"
+	(label "SG2.B"
 		(at 55.88 73.66 0)
 		(effects
 			(font
@@ -4311,7 +4311,7 @@
 		)
 		(uuid "4334df4b-637e-4be1-9806-367110c6e69a")
 	)
-	(label "SG1.L"
+	(label "SG2.L"
 		(at 55.88 58.42 0)
 		(effects
 			(font
@@ -4331,7 +4331,7 @@
 		)
 		(uuid "469392ee-b800-4cb4-ae40-1e35c06f9234")
 	)
-	(label "SCV1.UR"
+	(label "SCV2.UR"
 		(at 148.59 55.88 0)
 		(effects
 			(font
@@ -4341,7 +4341,7 @@
 		)
 		(uuid "4991b010-52d5-4dc7-a430-52db2e79f884")
 	)
-	(label "SG2.L"
+	(label "SG1.L"
 		(at 87.63 104.14 180)
 		(effects
 			(font
@@ -4351,7 +4351,7 @@
 		)
 		(uuid "4a03a47d-7b01-4291-9d95-2f29a1d4cda7")
 	)
-	(label "SG1.D"
+	(label "SG2.D"
 		(at 55.88 55.88 0)
 		(effects
 			(font
@@ -4361,7 +4361,7 @@
 		)
 		(uuid "4c309b01-42b7-4cbd-834f-aa1f1894ef5e")
 	)
-	(label "SG2.U"
+	(label "SG1.U"
 		(at 87.63 109.22 180)
 		(effects
 			(font
@@ -4371,7 +4371,7 @@
 		)
 		(uuid "515ec8ef-7d3a-43bb-a04b-8c9e1ccfc6ce")
 	)
-	(label "SCV2.LD"
+	(label "SCV1.LD"
 		(at 148.59 60.96 0)
 		(effects
 			(font
@@ -4381,7 +4381,7 @@
 		)
 		(uuid "5618be51-de43-49a5-a15c-3e26f606f3b0")
 	)
-	(label "SG2.D"
+	(label "SG1.D"
 		(at 87.63 101.6 180)
 		(effects
 			(font
@@ -4391,7 +4391,7 @@
 		)
 		(uuid "57c66622-69d3-48b6-8138-6188ee6e9442")
 	)
-	(label "SCV2.LD"
+	(label "SCV1.LD"
 		(at 148.59 111.76 0)
 		(effects
 			(font
@@ -4401,7 +4401,7 @@
 		)
 		(uuid "585b187c-6680-4467-bb53-de63e7773323")
 	)
-	(label "SG2.A"
+	(label "SG1.A"
 		(at 55.88 114.3 0)
 		(effects
 			(font
@@ -4411,7 +4411,7 @@
 		)
 		(uuid "589e899a-5857-41af-b444-00bebaaeff4c")
 	)
-	(label "SG2.A"
+	(label "SG1.A"
 		(at 120.65 66.04 180)
 		(effects
 			(font
@@ -4421,7 +4421,7 @@
 		)
 		(uuid "5cf12ac4-b2ad-4de4-9092-1f6011e45602")
 	)
-	(label "SG1.R"
+	(label "SG2.R"
 		(at 120.65 106.68 180)
 		(effects
 			(font
@@ -4431,7 +4431,7 @@
 		)
 		(uuid "66137b1f-ac7e-4e00-a077-7dcf43de681c")
 	)
-	(label "SCV1.LD"
+	(label "SCV2.LD"
 		(at 148.59 53.34 0)
 		(effects
 			(font
@@ -4441,7 +4441,7 @@
 		)
 		(uuid "67739b25-1e17-435a-8576-ca853ffc9c88")
 	)
-	(label "SG2.R"
+	(label "SG1.R"
 		(at 55.88 109.22 0)
 		(effects
 			(font
@@ -4451,7 +4451,7 @@
 		)
 		(uuid "6964d2aa-dc24-4db7-99ba-9ac887234378")
 	)
-	(label "SCV2.LD"
+	(label "SCV1.LD"
 		(at 196.85 114.3 180)
 		(effects
 			(font
@@ -4461,7 +4461,7 @@
 		)
 		(uuid "7965d1b2-96ee-4fd9-b2cb-b6cdc952b8ca")
 	)
-	(label "SG1.A"
+	(label "SG2.A"
 		(at 120.65 58.42 180)
 		(effects
 			(font
@@ -4471,7 +4471,7 @@
 		)
 		(uuid "7c533285-1490-4205-a9b3-df964ec9f164")
 	)
-	(label "SG2.L"
+	(label "SG1.L"
 		(at 120.65 60.96 180)
 		(effects
 			(font
@@ -4481,7 +4481,7 @@
 		)
 		(uuid "7dd3a636-008e-487c-9746-85bcb9e486ab")
 	)
-	(label "SG1.R"
+	(label "SG2.R"
 		(at 55.88 60.96 0)
 		(effects
 			(font
@@ -4491,7 +4491,7 @@
 		)
 		(uuid "7e6d756d-1170-43af-9851-f26b75db8e8d")
 	)
-	(label "SG2.B"
+	(label "SG1.B"
 		(at 87.63 116.84 180)
 		(effects
 			(font
@@ -4501,7 +4501,7 @@
 		)
 		(uuid "80334a0c-2008-4973-82c8-3612d972b82d")
 	)
-	(label "SCV1.UR"
+	(label "SCV2.UR"
 		(at 148.59 106.68 0)
 		(effects
 			(font
@@ -4511,7 +4511,7 @@
 		)
 		(uuid "804e479e-f4c9-419d-a904-3ff2e2e26e20")
 	)
-	(label "SG2.L"
+	(label "SG1.L"
 		(at 55.88 106.68 0)
 		(effects
 			(font
@@ -4521,8 +4521,8 @@
 		)
 		(uuid "80c4b7ae-abb2-420c-8910-4d973903a62d")
 	)
-	(label "SG1.A"
-		(at 87.63 71.12 180)
+	(label "SG2.A"
+		(at 87.63 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4531,7 +4531,7 @@
 		)
 		(uuid "841cfa48-4d2d-4a5e-b311-61a3646c6591")
 	)
-	(label "SG2.R"
+	(label "SG1.R"
 		(at 120.65 114.3 180)
 		(effects
 			(font
@@ -4541,7 +4541,7 @@
 		)
 		(uuid "876d3d39-c103-492c-913a-8280d671387d")
 	)
-	(label "SCV1{LD UR AB}"
+	(label "SCV2{LD UR AB}"
 		(at 162.56 48.26 0)
 		(effects
 			(font
@@ -4551,7 +4551,7 @@
 		)
 		(uuid "915c80d4-e3ad-4660-981e-730dcf2887d3")
 	)
-	(label "SG1.R"
+	(label "SG2.R"
 		(at 87.63 66.04 180)
 		(effects
 			(font
@@ -4561,7 +4561,7 @@
 		)
 		(uuid "98380e1a-0cab-4634-aa1c-71d42ccc9a06")
 	)
-	(label "SG1.A"
+	(label "SG2.A"
 		(at 55.88 66.04 0)
 		(effects
 			(font
@@ -4571,7 +4571,7 @@
 		)
 		(uuid "9b54af84-86fc-4d1f-aebd-c77b92192f69")
 	)
-	(label "SG2.U"
+	(label "SG1.U"
 		(at 120.65 63.5 180)
 		(effects
 			(font
@@ -4581,7 +4581,7 @@
 		)
 		(uuid "9c88139a-a15e-44a4-9c24-62cfc6c2bd9a")
 	)
-	(label "SG1.B"
+	(label "SG2.B"
 		(at 120.65 109.22 180)
 		(effects
 			(font
@@ -4591,7 +4591,7 @@
 		)
 		(uuid "ab740ff0-e071-445d-b266-06f90701c76c")
 	)
-	(label "SG2.A"
+	(label "SG1.A"
 		(at 87.63 114.3 180)
 		(effects
 			(font
@@ -4601,7 +4601,7 @@
 		)
 		(uuid "b5329e76-f35f-4c9f-9b54-c6fc0d1c00a8")
 	)
-	(label "SG2.D"
+	(label "SG1.D"
 		(at 55.88 104.14 0)
 		(effects
 			(font
@@ -4611,7 +4611,7 @@
 		)
 		(uuid "b93e6456-81e5-4c95-8728-c88e9a33213b")
 	)
-	(label "SCV1.UR"
+	(label "SCV2.UR"
 		(at 196.85 63.5 180)
 		(effects
 			(font
@@ -4621,7 +4621,7 @@
 		)
 		(uuid "bb1a78f0-dacd-4001-a35f-6cefe7fa89bc")
 	)
-	(label "SCV2.UR"
+	(label "SCV1.UR"
 		(at 148.59 114.3 0)
 		(effects
 			(font
@@ -4631,7 +4631,7 @@
 		)
 		(uuid "bc178467-c335-4955-95ad-2f4899637558")
 	)
-	(label "SCV2.AB"
+	(label "SCV1.AB"
 		(at 148.59 116.84 0)
 		(effects
 			(font
@@ -4641,7 +4641,7 @@
 		)
 		(uuid "c55cb131-f265-48b6-aa28-5ee5ebff6a33")
 	)
-	(label "SCV1.LD"
+	(label "SCV2.LD"
 		(at 196.85 60.96 180)
 		(effects
 			(font
@@ -4651,7 +4651,7 @@
 		)
 		(uuid "c6b59b85-6c05-4492-837e-d992a281fd20")
 	)
-	(label "SG1{U D L R A B}"
+	(label "SG2{U D L R A B}"
 		(at 81.28 48.26 0)
 		(effects
 			(font
@@ -4661,7 +4661,7 @@
 		)
 		(uuid "d182c1b6-c026-4674-872a-e324d912f87a")
 	)
-	(label "SG2.B"
+	(label "SG1.B"
 		(at 55.88 121.92 0)
 		(effects
 			(font
@@ -4671,8 +4671,8 @@
 		)
 		(uuid "d2a8636d-980d-472c-a6c6-a865e8b8f7db")
 	)
-	(label "SG1.B"
-		(at 87.63 73.66 180)
+	(label "SG2.B"
+		(at 87.63 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4681,7 +4681,7 @@
 		)
 		(uuid "d788911d-c0d8-478e-a5fb-15f0a7453dca")
 	)
-	(label "SCV2.UR"
+	(label "SCV1.UR"
 		(at 148.59 63.5 0)
 		(effects
 			(font
@@ -4691,7 +4691,7 @@
 		)
 		(uuid "d94ecb65-e03b-45c4-945d-e7adec1a62cf")
 	)
-	(label "SG2{U D L R A B}"
+	(label "SG1{U D L R A B}"
 		(at 81.28 129.54 0)
 		(effects
 			(font
@@ -4701,7 +4701,7 @@
 		)
 		(uuid "da86bb0a-63f5-4e82-88fa-fe97926c295d")
 	)
-	(label "SG2.R"
+	(label "SG1.R"
 		(at 87.63 111.76 180)
 		(effects
 			(font
@@ -4711,7 +4711,7 @@
 		)
 		(uuid "dcc7bf7a-d46f-4bad-bf17-e0fe1ebc3051")
 	)
-	(label "SCV1.LD"
+	(label "SCV2.LD"
 		(at 148.59 104.14 0)
 		(effects
 			(font
@@ -4721,7 +4721,7 @@
 		)
 		(uuid "ef8f9f31-0bec-4ff1-ab4f-99ce44e88411")
 	)
-	(label "SG1.U"
+	(label "SG2.U"
 		(at 120.65 55.88 180)
 		(effects
 			(font
@@ -4731,7 +4731,7 @@
 		)
 		(uuid "f0211044-8eae-4fb1-b8d4-01f1a24901c0")
 	)
-	(label "SG2.U"
+	(label "SG1.U"
 		(at 55.88 101.6 0)
 		(effects
 			(font
@@ -4741,7 +4741,7 @@
 		)
 		(uuid "f4234729-8e2b-4517-a245-abc79e20938a")
 	)
-	(label "SCV2.UR"
+	(label "SCV1.UR"
 		(at 196.85 116.84 180)
 		(effects
 			(font
@@ -4751,7 +4751,7 @@
 		)
 		(uuid "f9be82ea-b790-4955-8083-498f5a175702")
 	)
-	(label "SCV2.AB"
+	(label "SCV1.AB"
 		(at 196.85 119.38 180)
 		(effects
 			(font
@@ -4761,7 +4761,7 @@
 		)
 		(uuid "fa2bc483-280a-4291-97c7-8bb545cf53f5")
 	)
-	(label "SCV1.AB"
+	(label "SCV2.AB"
 		(at 196.85 66.04 180)
 		(effects
 			(font
@@ -4771,7 +4771,7 @@
 		)
 		(uuid "fdefc9c4-da78-478b-ac46-406d403e7b37")
 	)
-	(label "SCV1.AB"
+	(label "SCV2.AB"
 		(at 148.59 58.42 0)
 		(effects
 			(font
@@ -5070,7 +5070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 68.072 90)
 			(effects
 				(font
@@ -5288,7 +5288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 116.332 90)
 			(effects
 				(font
@@ -5441,7 +5441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 65.532 90)
 			(effects
 				(font
@@ -5469,28 +5469,28 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23477")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23478")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1be")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1bf")
 		)
 		(pin "2"
 			(uuid "2c19a21e-9981-4375-b8b7-75aed2441202")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39091")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39092")
 		)
 		(pin "5"
-			(uuid "2d958b85-3397-48b0-a989-2be64116cdd8")
+			(uuid "2d958b85-3397-48b0-a989-2be64116cdd9")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f5308f")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53090")
 		)
 		(pin "7"
 			(uuid "ac0a2344-b932-42f0-b1ef-a687607e77c4")
 		)
 		(pin "4"
-			(uuid "d00bf448-306c-487d-8480-1737d77b8a2c")
+			(uuid "d00bf448-306c-487d-8480-1737d77b8a2d")
 		)
 		(instances
 			(project "scv-sg"
@@ -5639,7 +5639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 60.452 90)
 			(effects
 				(font
@@ -5667,22 +5667,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23478")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23479")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1bf")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c0")
 		)
 		(pin "2"
 			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb3")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39092")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39093")
 		)
 		(pin "5"
 			(uuid "f29475b2-14df-4cb1-9bbf-a6329d271ac8")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53090")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53091")
 		)
 		(pin "7"
 			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bc")
@@ -5791,7 +5791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 111.252 90)
 			(effects
 				(font
@@ -5819,25 +5819,25 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23478")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d2347a")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1bf")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c1")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb3")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb4")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39092")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39094")
 		)
 		(pin "5"
 			(uuid "4442cb9a-2993-47ea-a493-af42fa832112")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53090")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53092")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bc")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bd")
 		)
 		(pin "4"
 			(uuid "7ed80dea-edd6-42a2-9bc9-24ebf3f961b5")
@@ -6390,7 +6390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 113.792 90)
 			(effects
 				(font
@@ -6421,10 +6421,10 @@
 			(uuid "68cffd72-b01f-441b-94db-8b190c1fd7ad")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c0")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c2")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb4")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb5")
 		)
 		(pin "6"
 			(uuid "ec90b61a-d848-40a1-8ffd-1dba04d72d27")
@@ -6433,10 +6433,10 @@
 			(uuid "2d958b85-3397-48b0-a989-2be64116cdda")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53091")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53093")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bd")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5be")
 		)
 		(pin "4"
 			(uuid "d00bf448-306c-487d-8480-1737d77b8a2e")
@@ -6468,7 +6468,7 @@
 				)
 			)
 		)
-		(property "Value" "SG-2"
+		(property "Value" "SG-1"
 			(at 49.53 97.79 0)
 			(effects
 				(font
@@ -6476,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical"
 			(at 49.53 111.76 0)
 			(effects
 				(font
@@ -6638,7 +6638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 73.152 90)
 			(effects
 				(font
@@ -6666,25 +6666,25 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23478")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d2347b")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1bf")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c3")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb3")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb6")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39092")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39095")
 		)
 		(pin "5"
 			(uuid "9d2b2c78-1f78-4e8a-b3b6-3f4372baddd3")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53090")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53094")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bc")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bf")
 		)
 		(pin "4"
 			(uuid "7383aa4e-e2df-4644-88fe-1f886bfce78b")
@@ -6790,7 +6790,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 118.872 90)
 			(effects
 				(font
@@ -6818,28 +6818,28 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23476")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d2347c")
 		)
 		(pin "1"
 			(uuid "ee3fe8a4-9085-401d-952f-02ca1202f865")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb1")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb2")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39090")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39096")
 		)
 		(pin "5"
-			(uuid "2d958b85-3397-48b0-a989-2be64116cdd7")
+			(uuid "2d958b85-3397-48b0-a989-2be64116cddb")
 		)
 		(pin "8"
 			(uuid "267b37a8-daff-415d-a068-3dc090220eb0")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5ba")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bb")
 		)
 		(pin "4"
-			(uuid "d00bf448-306c-487d-8480-1737d77b8a2b")
+			(uuid "d00bf448-306c-487d-8480-1737d77b8a2f")
 		)
 		(instances
 			(project "scv-sg"
@@ -6869,7 +6869,7 @@
 				)
 			)
 		)
-		(property "Value" "SG-1"
+		(property "Value" "SG-2"
 			(at 49.53 49.53 0)
 			(effects
 				(font
@@ -6877,7 +6877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical"
 			(at 49.53 63.5 0)
 			(effects
 				(font
@@ -7233,7 +7233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 62.992 90)
 			(effects
 				(font
@@ -7264,25 +7264,25 @@
 			(uuid "ab58cc9a-571e-4121-b913-b691f1802bce")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c0")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c4")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb4")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb7")
 		)
 		(pin "6"
 			(uuid "a81e1690-94b0-46c4-a18a-dc5fd73ec6cf")
 		)
 		(pin "5"
-			(uuid "2d958b85-3397-48b0-a989-2be64116cdda")
+			(uuid "2d958b85-3397-48b0-a989-2be64116cddc")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53091")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53095")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bd")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5c0")
 		)
 		(pin "4"
-			(uuid "d00bf448-306c-487d-8480-1737d77b8a2e")
+			(uuid "d00bf448-306c-487d-8480-1737d77b8a30")
 		)
 		(instances
 			(project "scv-sg"
@@ -7319,7 +7319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 106.172 90)
 			(effects
 				(font
@@ -7347,28 +7347,28 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23476")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d2347d")
 		)
 		(pin "1"
 			(uuid "ee36fd46-1661-4b86-87d2-2a835b04f8aa")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb1")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb8")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39090")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39097")
 		)
 		(pin "5"
-			(uuid "2d958b85-3397-48b0-a989-2be64116cdd7")
+			(uuid "2d958b85-3397-48b0-a989-2be64116cddd")
 		)
 		(pin "8"
 			(uuid "c2ada230-5b60-4f0e-ad18-99f26719cefd")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5ba")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5c1")
 		)
 		(pin "4"
-			(uuid "d00bf448-306c-487d-8480-1737d77b8a2b")
+			(uuid "d00bf448-306c-487d-8480-1737d77b8a31")
 		)
 		(instances
 			(project "scv-sg"
@@ -7462,7 +7462,7 @@
 				)
 			)
 		)
-		(property "Value" "SCV-2"
+		(property "Value" "SCV-1"
 			(at 203.2 123.19 0)
 			(effects
 				(font
@@ -7613,7 +7613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 75.692 90)
 			(effects
 				(font
@@ -7644,25 +7644,25 @@
 			(uuid "20ec1634-63bf-4ed4-99ca-3b10f4988e61")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c0")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c5")
 		)
 		(pin "2"
-			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb4")
+			(uuid "032da3e3-8ce3-4c1b-8013-536b58b62cb9")
 		)
 		(pin "6"
 			(uuid "645285df-4250-454e-b9c1-1828a13b1089")
 		)
 		(pin "5"
-			(uuid "2d958b85-3397-48b0-a989-2be64116cdda")
+			(uuid "2d958b85-3397-48b0-a989-2be64116cdde")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53091")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53096")
 		)
 		(pin "7"
-			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5bd")
+			(uuid "67d1def7-9a99-4b47-ae20-a01ea4bef5c2")
 		)
 		(pin "4"
-			(uuid "d00bf448-306c-487d-8480-1737d77b8a2e")
+			(uuid "d00bf448-306c-487d-8480-1737d77b8a32")
 		)
 		(instances
 			(project "scv-sg"
@@ -7690,7 +7690,7 @@
 				)
 			)
 		)
-		(property "Value" "SCV-1"
+		(property "Value" "SCV-2"
 			(at 203.2 69.85 0)
 			(effects
 				(font
@@ -7845,7 +7845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 92.71 103.632 90)
 			(effects
 				(font
@@ -7873,28 +7873,28 @@
 			)
 		)
 		(pin "3"
-			(uuid "45cc8133-5251-4b3e-a74f-59eb38d23477")
+			(uuid "45cc8133-5251-4b3e-a74f-59eb38d2347e")
 		)
 		(pin "1"
-			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1be")
+			(uuid "10e1c967-ca0f-46e7-9e86-cb46ddaff1c6")
 		)
 		(pin "2"
 			(uuid "820cf852-27c1-4375-a43b-40e31951276b")
 		)
 		(pin "6"
-			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39091")
+			(uuid "a5d6cb4b-8df2-4c77-addf-c7db2cd39098")
 		)
 		(pin "5"
-			(uuid "2d958b85-3397-48b0-a989-2be64116cdd8")
+			(uuid "2d958b85-3397-48b0-a989-2be64116cddf")
 		)
 		(pin "8"
-			(uuid "2c53f93d-b397-423d-89b3-5fbf91f5308f")
+			(uuid "2c53f93d-b397-423d-89b3-5fbf91f53097")
 		)
 		(pin "7"
 			(uuid "8957c2b9-1f7a-4878-a242-d9dc7f3ab132")
 		)
 		(pin "4"
-			(uuid "d00bf448-306c-487d-8480-1737d77b8a2c")
+			(uuid "d00bf448-306c-487d-8480-1737d77b8a33")
 		)
 		(instances
 			(project "scv-sg"
