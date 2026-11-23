@@ -1,8 +1,10 @@
 fp-info-cache
 *-backups
-*.gbr
+*.g??
 *.gbrjob
 *.lck
 *.drl
 *.zip
 .history
+/*.svg
+/*.png
